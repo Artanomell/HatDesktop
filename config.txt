@@ -1,0 +1,6 @@
+20 time_limit
+20 number_of_words
+2 number_of_players
+Sergey name1
+Anna name2
+WhoAreYou name3
